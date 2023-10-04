@@ -18,7 +18,11 @@ Depends:
   iftop,
   iotop,
   irqtop,
+<<<<<<< HEAD
   ipcalc,
+=======
+  jq,
+>>>>>>> eb27212 (T5632: Add user-util jq to parse JSON files from sh)
   libnss-myhostname,
   lsof,
   localepurge,
