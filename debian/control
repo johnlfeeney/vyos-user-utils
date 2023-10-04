@@ -19,6 +19,7 @@ Depends:
   iotop,
   irqtop,
   ipcalc,
+  jq,
   libnss-myhostname,
   lsof,
   localepurge,
