@@ -23,6 +23,7 @@ Depends:
   iftop,
   iotop,
   ipcalc,
+  ipmitool,
   irqtop,
   jq,
   libnss-myhostname,
